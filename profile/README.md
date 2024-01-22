@@ -1,4 +1,5 @@
-![Banner Image](profile/banner.png)
+![Banner Image](profile/banner.png#gh-light-mode-only)
+![Banner Image](profile/banner-dark.png#gh-dark-mode-only)
 
 The Fuel Developer Champions Program is a way to recognize developer achievement across four levels: Pioneers, Explorers, Navigators, and Legends. It's a way to acknowledge the work done at different stages of engagement with Fuel. Whether you're just getting started (Pioneer) or you're deeply involved in building and inspiring other developers to build on Fuel (Legends), this program is about your contributions and progress. It’s a space for developers to collaborate, share knowledge, and advance their skills while getting rewarded with exclusive swag, dedicated programs just for Champions and more.
 
